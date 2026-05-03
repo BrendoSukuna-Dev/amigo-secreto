@@ -3,7 +3,7 @@
 <h2>🖥 Projeto Concluido ✅</h2>
 
 ## 🔗 Link do projeto
-➥ https://brendosukuna-dev.github.io/amigo-secreto
+➥ https://brendosukuna-dev.github.io/amigo-secreto/
 
 ## 📋 Sobre o projeto
 <p>Esta aplicação web foi desenvolvida para facilitar a organização de sorteios de Amigo Secreto.</p>
