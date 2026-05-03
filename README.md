@@ -2,6 +2,9 @@
 <img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/9b0a9034-b419-4151-97c1-527651858716" />
 <h2>🖥 Projeto Concluido ✅</h2>
 
+## 🔗 Link do projeto
+➥ https://brendosukuna-dev.github.io/amigo-secreto/
+
 ## 📋 Sobre o projeto
 <p>Esta aplicação web foi desenvolvida para facilitar a organização de sorteios de Amigo Secreto.</p>
 <p>O sistema permite cadastrar participantes, validar entradas e realizar um sorteio aleatório garantindo que todos os participantes sejam incluídos em um ciclo de troca de presentes.</p>
